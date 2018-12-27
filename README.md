@@ -13,3 +13,5 @@ Sample website with plenty of files for demos
 This is how to deploy!
 
 ## How To Contribute
+
+Pay through paypal here:...
