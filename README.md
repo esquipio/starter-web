@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. This is a simple web project.
 
 ## Purpose
 
@@ -14,4 +14,4 @@ This is how to deploy!
 
 ## How To Contribute
 
-Pay through paypal here:...
+Pay through paypal here: 123456
