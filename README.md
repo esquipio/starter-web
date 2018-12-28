@@ -14,7 +14,7 @@ This is how to deploy!
 
 ## How To Contribute
 
-Pay through paypal here: 123456
+You can create your own code after forking this repository.
 
 ### Copyright
 
