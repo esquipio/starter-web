@@ -15,3 +15,7 @@ This is how to deploy!
 ## How To Contribute
 
 Pay through paypal here: 123456
+
+### Copyright
+
+2018.Git.Training
