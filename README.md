@@ -20,4 +20,4 @@ You can create your own code after forking this repository.
 
 ### Copyright
 
-2018.Git.Training
+2018.Git.Training. All rights reserved.
